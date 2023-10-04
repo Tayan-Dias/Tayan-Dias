@@ -8,8 +8,9 @@
   <h3>•|🌐 Tenho conhecimento/Estudando as seguintes tecnologias 🌐|•</h3> 
   <!-- <img align="center" alt="Tayan-Dart" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg"> -->
   <img align="center" alt="Tayan-Flutter" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Tayan-Java" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Tayan-PY" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-    <img align="center" alt="Tayan-NODE" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="Tayan-NODE" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Tayan-JS" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Tayan-C" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
 
