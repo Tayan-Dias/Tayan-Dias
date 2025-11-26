@@ -12,7 +12,7 @@
   <img align="center" alt="Tayan-PY" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Tayan-NODE" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
   <img align="center" alt="Tayan-JS" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Tayan-C" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg">
+  <img align="center" alt="Tayan-C" height="30" width="37" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 
 </div>
 <!--  Ferramentas  -->
@@ -24,9 +24,6 @@
   <br>
   <br>
   <br>  
-  
-  <!-- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Tayan-Dias&show_icons=true&count_private=true&hide_border=true&title_color=blue-green&icon_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="bruno" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tayan-Dias&layout=compact&hide_border=true&title_color=blue-green&text_color=1E90FF&bg_color=0d1117" /> -->
 
 
 </div>
